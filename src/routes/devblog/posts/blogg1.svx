@@ -1,0 +1,19 @@
+---
+title: Blogg Nummer 1
+date: "2026-04-20"
+effort: "high"
+meme: ""
+---
+
+De senaste 3 lektionerna så gjorde jag klart home pagen
+för hemsidan jag gjorde home pagen responsiv och så gjorde
+jag canvasen till en "legacy" canvas som då endast kan användas
+av enheter med större skärm. Dessutom så påbörjade jag den nya
+canvasen och gjorde klart tutorial läget där och påbörjade
+settings menyn. Målet var att få den att kännas mer
+som en app istället för bara en statisk hemsida.
+
+Jag skapade även en loading screen som har en övergång till canvasen.
+Canvasen har nu en toolbar med olika tools man kan använda för att
+bygga sin design, men den är bara visuell än så länge och har ingen
+funktion.

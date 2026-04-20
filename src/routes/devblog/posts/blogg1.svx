@@ -2,7 +2,7 @@
 title: Blogg Nummer 1
 date: "2026-04-20"
 effort: "high"
-meme: ""
+meme: "a"
 ---
 
 De senaste 3 lektionerna så gjorde jag klart home pagen
